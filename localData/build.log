@@ -1,0 +1,22 @@
+Logfile initialized
+[INFO] logfile = D:\Titanium\localData\build.log
+[DEBUG] D:\Titanium\Titanium\mobilesdk\win32\1.7.2\android\builder.py simulator localData C:\androidsdk D:\Titanium\localData local.app.com 20 WXGA
+[INFO] Building localData for Android ... one moment
+[INFO] Titanium SDK version: 1.7.2 (07/21/11 09:36 97c3689)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.219000 seconds on emulator to get ready
+[DEBUG] local.app.com installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying project resources..
+[TRACE] COPYING MODIFIED FILE: D:\Titanium\localData\Resources\models\fugitiveDAO.js => D:\Titanium\localData\build\android\bin\assets\Resources\models\fugitiveDAO.js
+[TRACE] COPYING MODIFIED FILE: D:\Titanium\localData\Resources\views\index.js => D:\Titanium\localData\build\android\bin\assets\Resources\views\index.js
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[INFO] Waiting for SDCard to become available..
+[INFO] Re-launching application ... localData
+[INFO] Launching application ... localData
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=local.app.com/.LocaldataActivity }
+Warning: Activity not started, its current task has been brought to the front
+
